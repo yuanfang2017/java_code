@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/设计一个表示坐标点的类/src/zuobiao/cn/ZuoBiaoDemo.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="zuobiao.cn.ZuoBiaoDemo"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="设计一个表示坐标点的类"/>
+</launchConfiguration>

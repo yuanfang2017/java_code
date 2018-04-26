@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/在任意位置为stringbuffer 添加内容/src/tianjia/cn/StingBufferDemo1.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="tianjia.cn.StingBufferDemo1"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="在任意位置为stringbuffer 添加内容"/>
+</launchConfiguration>
